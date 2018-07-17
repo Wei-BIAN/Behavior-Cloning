@@ -1,8 +1,5 @@
 # **Behavioral Cloning** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
 
 ---
 
@@ -107,9 +104,7 @@ v  : 3 Dense layers
 
 #### 3. Creation of the Training Set & Training Process
 
-To capture good driving behavior, I first recorded two laps on track one using center lane driving. Here is an example image of center lane driving:
-
-![alt text][image2]
+To capture good driving behavior, I first recorded two laps on track one using center lane driving. Here is an example image of center lane driving.
 
 
 After the collection process, I had 10K number of data points. 
